@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT .**
 
-- 💬 Ask me about **HTML , CSS , BOOTSTRAP .**
+- 💬 Ask me about **HTML , CSS , BOOTSTRAP & Git .**
 
 - 📫 How to reach me **iqramansha78u@gmail.com**
 
