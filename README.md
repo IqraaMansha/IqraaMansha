@@ -1,7 +1,7 @@
 <!-- -![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)) -->
 
 
-![logo](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+![logo](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)
 
 <!-- ![MasterHead]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meshdex.com%2Fweb-development%2F&psig=AOvVaw2rRzhs189l5Kf0XxW2jksW&ust=1685036727100000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIj994vBjv8CFQAAAAAdAAAAABAn](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)]) 
  -->
