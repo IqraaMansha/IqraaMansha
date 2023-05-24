@@ -40,9 +40,6 @@
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqraamansha&" alt="iqraamansha" /></p>
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pri65&theme=dark&border_radius=10" alt="priyankasoni" height="250px" width="47%" />
-<div>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqraamansha&show_icons=true&locale=en" alt="iqraamansha" /></p>
 
