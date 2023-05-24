@@ -4,7 +4,8 @@
 <!-- ![MasterHead]([https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif])  -->
 
 
-<h1 align="center">Hi 👋, I'm Iqra Mansha
+<h1 align="center">Hi <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
+, I'm Iqra Mansha
 </h1>
 <h3 align="center">A passionate Beginner Web Developer from Pakistan 😊</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">-->
