@@ -6,7 +6,7 @@
 <!-- ![MasterHead]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meshdex.com%2Fweb-development%2F&psig=AOvVaw2rRzhs189l5Kf0XxW2jksW&ust=1685036727100000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIj994vBjv8CFQAAAAAdAAAAABAn](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)]) 
  -->
 
-<h1 align="center">Hi 👋 I'm Iqra Mansha </h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> I'm Iqra Mansha </h1>
 <h3 align="center">A passionate Beginner Web Developer from Pakistan 😊</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">-->
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=ecf05e47t0trv9dlaxnxpthg9589adkqpkmf6vew3mnxsn0j&ep=v1_gifs_related&rid=giphy.gif&ct=s">
