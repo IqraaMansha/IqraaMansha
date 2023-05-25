@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I Think I Am Funny .**
 
-<hr>
+<hr width="190px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
