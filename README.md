@@ -40,6 +40,8 @@ iqramansha784@gmail.com**
 <a href="https://hashnode.com/@iqra45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iqra45" height="30" width="40" /></a>
 <a href="https://medium.com/@iqramansha78u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iqramansha78u" height="30" width="40" /></a>
 </p>
+<hr width="440px">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqraamansha" alt="iqraamansha" /></a> </p>
 
 <hr width="440px">
 
