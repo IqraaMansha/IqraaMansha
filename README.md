@@ -32,11 +32,11 @@ iqramansha784@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Iqra-Mansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iqra mansha" height="30" width="40" /></a>
-<a href="https://twitter.com/iqra_mansha786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqra_mansha786" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iqra-mansha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra mansha" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/iqra-mansha-im/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra mansha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21796117/iqra-mansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iqra mansha" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iqraamansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iqraamansha" height="30" width="40" /></a>
-<a href="https://instagram.com/rainbow_shot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rainbow_shot_" height="30" width="40" /></a>
+
 <!-- <a href="[https://dribbble.com/Iqra_Mansha](https://dribbble.com/iqra_mansha)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="iqra mansha" height="30" width="40" /></a> -->
 <a href="https://www.behance.net/iqramansha78u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iqra mansha" height="30" width="40" /></a>
 <a href="https://hashnode.com/@iqra45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iqra45" height="30" width="40" /></a>
