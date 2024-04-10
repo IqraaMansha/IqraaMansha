@@ -6,7 +6,7 @@
  -->
  
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> I'm Iqra Mansha </h1>
-<h3 align="center">A passionate Beginner Web Developer from Pakistan 😊</h3>
+<h3 align="center">A passionate Web Developer from Pakistan 😊</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqraamansha&label=Profile%20views&color=0e75b6&style=flat" alt="iqraamansha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iqra_mansha786" target="blank"><img src="https://img.shields.io/twitter/follow/iqra_mansha786?logo=twitter&style=for-the-badge" alt="iqra_mansha786" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/iqra_mansha786" target="blank"><img src="https://img.shields.io/twitter/follow/iqra_mansha786?logo=twitter&style=for-the-badge" alt="iqra_mansha786" /></a> </p>-->
 
 - 🌱 I’m currently learning **React .**
 
