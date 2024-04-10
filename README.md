@@ -18,13 +18,13 @@
 
 <p align="left"> <a href="https://twitter.com/iqra_mansha786" target="blank"><img src="https://img.shields.io/twitter/follow/iqra_mansha786?logo=twitter&style=for-the-badge" alt="iqra_mansha786" /></a> </p>
 
-- 🌱 I’m currently learning **ES6 .**
+- 🌱 I’m currently learning **React .**
 
-- 💬 Ask me about **HTML , CSS , BOOTSTRAP & Git .**
+- 💬 Ask me about **HTML , CSS , BOOTSTRAP , ES6 & Git .**
 
 - 📫 How to reach me **iqramansha78u@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny .**
+- ⚡ Fun fact **I Love to code.**
 
 <hr width="240px">
 
