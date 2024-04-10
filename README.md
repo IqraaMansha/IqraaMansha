@@ -22,7 +22,8 @@
 
 - 💬 Ask me about **HTML , CSS , BOOTSTRAP , ES6 & Git .**
 
-- 📫 How to reach me **iqramansha78u@gmail.com**
+- 📫 How to reach me **iqramansha78u@gmail.com
+iqramansha784@gmail.com**
 
 - ⚡ Fun fact **I Love to code.**
 
