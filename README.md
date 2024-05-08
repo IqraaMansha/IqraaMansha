@@ -34,7 +34,6 @@ iqramansha784@gmail.com**
 <a href="https://stackoverflow.com/users/21796117/iqra-mansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iqra mansha" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iqraamansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iqraamansha" height="30" width="40" /></a>
 <a href="https://www.behance.net/iqramansha78u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iqra mansha" height="30" width="40" /></a>
-<a href="https://hashnode.com/@iqra45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iqra45" height="30" width="40" /></a>
 <a href="https://medium.com/@iqramansha78u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iqramansha78u" height="30" width="40" /></a>
 </p>
 <hr width="440px">
