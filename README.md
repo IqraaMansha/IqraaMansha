@@ -34,8 +34,8 @@
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Iqraamansha&theme=dark&hide_border=true" alt="GitHub Streak" /></a> -->
 </p>
 <!-- ![snake animation](https://github.com/iqraamansha/iqraamansha/blob/output/github-contribution-grid-snake2.svg) -->
-![snake animation](https://github.com/iqraamansha/iqraamansha/blob/output/github-contribution-grid-snake2.svg)
-
+<!-- ![snake animation](https://github.com/iqraamansha/iqraamansha/blob/output/github-contribution-grid-snake2.svg)
+ -->
 
 
 
