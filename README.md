@@ -33,7 +33,7 @@
 </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Iqraamansha&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iqraamansha&theme=dark" alt="GitHub Streak" /></a>
 
 
 
