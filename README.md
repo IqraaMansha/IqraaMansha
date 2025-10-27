@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently on a Break
 
-- 💬 Ask me about ** HTML5 | CSS3 | JavaScript | jQuery | JSON | React | P5.js | Bootstrap | MySQL | SEO | Laravel | WordPress | PHP | Millennial Entrepreneurship.**
+- 💬 Ask me about  HTML5 | CSS3 | JavaScript | jQuery | JSON | React | P5.js | Bootstrap | MySQL | SEO | Laravel | WordPress | PHP | Millennial Entrepreneurship.
 
 - 📫 How to reach me **iqramansha784@gmail.com**
 
