@@ -1,7 +1,7 @@
 ![logo](https://github.com/ridashafqaat/ridashafqaat/blob/main/banner%20top.gif)
 
 <h1 align="center">Hi 👋, I'm Iqra Mansha</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqraamansha&label=Profile%20views&color=0e75b6&style=flat" alt="iqraamansha" /> </p>
 
@@ -9,9 +9,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently on a Break
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about ** HTML5 | CSS3 | JavaScript | jQuery | JSON | React | P5.js | Bootstrap | MySQL | SEO | Laravel | WordPress | PHP | Millennial Entrepreneurship.**
 
 - 📫 How to reach me **iqramansha784@gmail.com**
 
